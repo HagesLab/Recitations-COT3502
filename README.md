@@ -1,5 +1,4 @@
-# Recitation_Solutions
-Solutions for COT3502 Recitation Section
+# Recitations
 <br> Created by Jasmeet Bhatt (2023)
 <br>
 
