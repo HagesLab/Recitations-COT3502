@@ -1,4 +1,4 @@
-# Recitations COT3502
+# Recitations - COT3502
 Created by Jasmeet Bhatt (2023)
 
 ## Templates
