@@ -1,5 +1,8 @@
 # Recitations - COT3502
 
+### Room: CHE 0237
+### Time: 4:30pm - 6:00pm
+
 ## Templates
 [Recitation 1](https://colab.research.google.com/drive/1kww_MQpVlYc8Cfxb0mmvH7Vf4imSUKwQ?usp=sharing)
 
