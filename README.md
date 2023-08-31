@@ -1,6 +1,7 @@
 # Recitations - COT3502
 
 **Room: CHE 0237**
+<br/>
 **Time: 4:30pm - 6:00pm**
 
 ## Templates
