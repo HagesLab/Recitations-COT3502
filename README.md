@@ -16,6 +16,8 @@
 
 [Recitation 2 Solution](https://colab.research.google.com/drive/1EXEycWsPNw9bW8uegz_JTbyM1ki0QRI_?usp=sharing)
 
+<!-- [Recitation 3 Solution]() -->
+
 <br/>
 
 ---
