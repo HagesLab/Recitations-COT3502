@@ -20,7 +20,7 @@
 
 [Recitation 3 Solution](https://colab.research.google.com/drive/1jO8tEMN051mJ6NPmMTh7_5NFJsCGO4ZY?usp=sharing)
 
-<!--[Recitation 4 Solution](https://colab.research.google.com/drive/1wu4KPKswglJ6Pm-aDCUCoOLS9NU6zInM?usp=sharing)-->
+[Recitation 4 Solution](https://colab.research.google.com/drive/1wu4KPKswglJ6Pm-aDCUCoOLS9NU6zInM?usp=sharing)
 
 <br/>
 
