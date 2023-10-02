@@ -24,7 +24,7 @@
 
 [Recitation 4 Solution](https://colab.research.google.com/drive/1wu4KPKswglJ6Pm-aDCUCoOLS9NU6zInM?usp=sharing)
 
-<!-- [Recitation 5 Solution](https://colab.research.google.com/drive/1BS8Jr1n79pR0dfSNkEuaPYDhL_lKebfA?usp=sharing) -->
+[Recitation 5 Solution](https://colab.research.google.com/drive/1BS8Jr1n79pR0dfSNkEuaPYDhL_lKebfA?usp=sharing)
 
 <br/>
 
