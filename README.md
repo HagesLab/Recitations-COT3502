@@ -13,7 +13,7 @@
 
 [Recitation 4](https://colab.research.google.com/drive/1mozD9UJeM0rm9lgWdbPCGtqmqPat70kn?usp=sharing)
 
-<!-- [Recitation 5](https://colab.research.google.com/drive/1GB4QyjVJW3lng7j-OvrBd-etUXn_YLDl?usp=sharing) -->
+[Recitation 5](https://colab.research.google.com/drive/1GB4QyjVJW3lng7j-OvrBd-etUXn_YLDl?usp=sharing)
 
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
