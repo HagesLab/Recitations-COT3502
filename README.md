@@ -15,6 +15,8 @@
 
 [Recitation 5](https://colab.research.google.com/drive/1GB4QyjVJW3lng7j-OvrBd-etUXn_YLDl?usp=sharing)
 
+<!-- [Recitation 6](https://colab.research.google.com/drive/1siZ9Q2WQhzBik5UPi55jxrjW5ngbK285?usp=sharing) -->
+
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
 
@@ -25,6 +27,8 @@
 [Recitation 4 Solution](https://colab.research.google.com/drive/1wu4KPKswglJ6Pm-aDCUCoOLS9NU6zInM?usp=sharing)
 
 [Recitation 5 Solution](https://colab.research.google.com/drive/1BS8Jr1n79pR0dfSNkEuaPYDhL_lKebfA?usp=sharing)
+
+<!-- [Recitation 6 Solution](https://colab.research.google.com/drive/1J399D2sqDROT2x3yhKv2q8ian4hSb1uA?usp=sharing) -->
 
 <br/>
 
