@@ -28,7 +28,7 @@
 
 [Recitation 5 Solution](https://colab.research.google.com/drive/1BS8Jr1n79pR0dfSNkEuaPYDhL_lKebfA?usp=sharing)
 
-<!-- [Recitation 6 Solution](https://colab.research.google.com/drive/1J399D2sqDROT2x3yhKv2q8ian4hSb1uA?usp=sharing) -->
+[Recitation 6 Solution](https://colab.research.google.com/drive/1J399D2sqDROT2x3yhKv2q8ian4hSb1uA?usp=sharing)
 
 <br/>
 
