@@ -32,7 +32,7 @@
 
 [Recitation 6 Solution](https://colab.research.google.com/drive/1J399D2sqDROT2x3yhKv2q8ian4hSb1uA?usp=sharing)
 
-<!-- [Recitation 7 Solution](https://colab.research.google.com/drive/1O9hKKqXOYfO9OMblxRHyov43llMHs7xu?usp=sharing) -->
+[Recitation 7 Solution](https://colab.research.google.com/drive/1O9hKKqXOYfO9OMblxRHyov43llMHs7xu?usp=sharing)
 
 <br/>
 
