@@ -19,7 +19,7 @@
 
 [Recitation 7](https://colab.research.google.com/drive/1KhrCISKN_qBRPHw6vp7lnRZ5Q9qdeieQ?usp=sharing)
 
-<!-- [Recitation 8](https://colab.research.google.com/drive/1gwM1HgtW8BIkexCs5d_uSDxynIcKpTYH?usp=sharing) -->
+[Recitation 8](https://colab.research.google.com/drive/1gwM1HgtW8BIkexCs5d_uSDxynIcKpTYH?usp=sharing)
 
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
