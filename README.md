@@ -21,6 +21,8 @@
 
 [Recitation 8](https://colab.research.google.com/drive/1gwM1HgtW8BIkexCs5d_uSDxynIcKpTYH?usp=sharing)
 
+<!--[Recitation 9](https://colab.research.google.com/drive/1PSTKPl4_fcbVk12QlLrjBDkp8zCZn1TC?usp=sharing)-->
+
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
 
