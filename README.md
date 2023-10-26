@@ -40,6 +40,8 @@
 
 [Recitation 8 Solution](https://colab.research.google.com/drive/1zeAalmqu6MAfECGxY9jSvw51EoA1vXaV?usp=sharing)
 
+<!-- [Recitation 9 Solution](https://colab.research.google.com/drive/1sISfG-4vUkkWUuVmSHM-FvyFX-Oydqe8?usp=sharing) -->
+
 <br/>
 
 ---
