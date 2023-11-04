@@ -7,6 +7,8 @@
 ## Numpy Lecture
 <!-- [Numpy Notebook (Blank)](https://colab.research.google.com/drive/1MPFrQs8cANQTPJWahCZmf98x7-JQ3tbz?usp=sharing) -->
 
+<-- [Numpy Notebook (Answers)]() -->
+
 ## Templates
 [Recitation 1](https://colab.research.google.com/drive/1kww_MQpVlYc8Cfxb0mmvH7Vf4imSUKwQ?usp=sharing)
 
