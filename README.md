@@ -44,7 +44,7 @@
 
 [Recitation 9 Solution](https://colab.research.google.com/drive/1sISfG-4vUkkWUuVmSHM-FvyFX-Oydqe8?usp=sharing)
 
-[Recitation 10 Solution](https://colab.research.google.com/drive/19w7vhMvGC-nB0CXVtDHJitkdWC4tzcD6?usp=sharing)
+<!-- [Recitation 10 Solution](https://colab.research.google.com/drive/19w7vhMvGC-nB0CXVtDHJitkdWC4tzcD6?usp=sharing) -->
 
 <br/>
 
