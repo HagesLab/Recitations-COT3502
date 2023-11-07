@@ -5,7 +5,7 @@
 **Time:** 4:30pm - 6:00pm
 
 ## Numpy Lecture
-<!-- [Numpy Notebook (Blank)](https://colab.research.google.com/drive/1MPFrQs8cANQTPJWahCZmf98x7-JQ3tbz?usp=sharing) -->
+[Numpy Notebook (Blank)](https://colab.research.google.com/drive/1MPFrQs8cANQTPJWahCZmf98x7-JQ3tbz?usp=sharing)
 
 <!-- [Numpy Notebook (Answers)](https://colab.research.google.com/drive/1vjcQ30paeUufTLxDqCcyJy-moSWOiMuY?usp=sharing) -->
 
