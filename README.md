@@ -30,7 +30,7 @@
 
 [Recitation 10](https://colab.research.google.com/drive/1Ygs96OTVRaF3DFajL9Yt-azF_wk4GpJf?usp=sharing)
 
-<!-- [Recitation 11](https://colab.research.google.com/drive/1jmTz0hQ5yLlQBZ4tZfxPar6Yl6AC9iT6?usp=sharing) -->
+[Recitation 11](https://colab.research.google.com/drive/1jmTz0hQ5yLlQBZ4tZfxPar6Yl6AC9iT6?usp=sharing)
 
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
