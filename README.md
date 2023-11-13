@@ -53,7 +53,7 @@
 
 [Recitation 10 Solution](https://colab.research.google.com/drive/19w7vhMvGC-nB0CXVtDHJitkdWC4tzcD6?usp=sharing)
 
-<!-- [Recitation 11 Solution](https://colab.research.google.com/drive/1TMFksiqyPIHTDlRO3QR9KDSk0xRoQRXb?usp=sharing) -->
+[Recitation 11 Solution](https://colab.research.google.com/drive/1TMFksiqyPIHTDlRO3QR9KDSk0xRoQRXb?usp=sharing)
 
 <br/>
 
