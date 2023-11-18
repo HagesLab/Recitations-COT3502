@@ -57,6 +57,8 @@
 
 [Recitation 11 Solution](https://colab.research.google.com/drive/1TMFksiqyPIHTDlRO3QR9KDSk0xRoQRXb?usp=sharing)
 
+<!-- [Recitation 12 Solution](https://colab.research.google.com/drive/1PPJ6-Ka3yGO0d3W2s_rIY746V2IaIXx1?usp=sharing) -->
+
 <br/>
 
 ---
