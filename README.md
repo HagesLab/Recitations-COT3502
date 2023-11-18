@@ -32,6 +32,8 @@
 
 [Recitation 11](https://colab.research.google.com/drive/1jmTz0hQ5yLlQBZ4tZfxPar6Yl6AC9iT6?usp=sharing)
 
+<!-- [Recitation 12](https://colab.research.google.com/drive/1Mm2mTQJZ0EsQPrAsoU-On8rJ8Eu1SEed?usp=sharing) -->
+
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
 
