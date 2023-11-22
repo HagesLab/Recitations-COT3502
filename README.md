@@ -34,6 +34,8 @@
 
 [Recitation 12](https://colab.research.google.com/drive/1Mm2mTQJZ0EsQPrAsoU-On8rJ8Eu1SEed?usp=sharing)
 
+<!-- [Recitation 13](https://colab.research.google.com/drive/108E-kVhkFumk5rASbGBKdvwVc4N7sznr?usp=sharing) -->
+
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
 
@@ -58,6 +60,8 @@
 [Recitation 11 Solution](https://colab.research.google.com/drive/1TMFksiqyPIHTDlRO3QR9KDSk0xRoQRXb?usp=sharing)
 
 [Recitation 12 Solution](https://colab.research.google.com/drive/1PPJ6-Ka3yGO0d3W2s_rIY746V2IaIXx1?usp=sharing)
+
+<!-- [Recitation 13 Solution](https://colab.research.google.com/drive/1SYb2ahD5SuDO7gUWndcLjrEvPAvVyYah?usp=sharing) -->
 
 <br/>
 
