@@ -34,7 +34,7 @@
 
 [Recitation 12](https://colab.research.google.com/drive/1Mm2mTQJZ0EsQPrAsoU-On8rJ8Eu1SEed?usp=sharing)
 
-<!-- [Recitation 13](https://colab.research.google.com/drive/108E-kVhkFumk5rASbGBKdvwVc4N7sznr?usp=sharing) -->
+[Recitation 13](https://colab.research.google.com/drive/108E-kVhkFumk5rASbGBKdvwVc4N7sznr?usp=sharing)
 
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
