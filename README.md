@@ -65,7 +65,7 @@
 
 [Recitation 13 Solution](https://colab.research.google.com/drive/1SYb2ahD5SuDO7gUWndcLjrEvPAvVyYah?usp=sharing)
 
-<!-- [Recitation 14 Solution](https://colab.research.google.com/drive/1GXtSJSZ7dyblZ8KGDlRGQN0m3FP26RW6?usp=sharing) -->
+[Recitation 14 Solution](https://colab.research.google.com/drive/1GXtSJSZ7dyblZ8KGDlRGQN0m3FP26RW6?usp=sharing)
 
 <br/>
 
