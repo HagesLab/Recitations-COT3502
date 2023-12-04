@@ -36,7 +36,7 @@
 
 [Recitation 13](https://colab.research.google.com/drive/108E-kVhkFumk5rASbGBKdvwVc4N7sznr?usp=sharing)
 
-<!-- [Recitation 14](https://colab.research.google.com/drive/1pnOvm7pOYzu_mvLq5maKZ-UXe3kgTi7r?usp=sharing) -->
+[Recitation 14](https://colab.research.google.com/drive/1pnOvm7pOYzu_mvLq5maKZ-UXe3kgTi7r?usp=sharing)
 
 ## Solutions
 [Recitation 1 Solution](https://colab.research.google.com/drive/12runTRdFfwnKWV3VggbPOTTHmzSAf4BA?usp=sharing)
