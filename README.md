@@ -9,6 +9,9 @@
 
 [Numpy Notebook (Answers)](https://colab.research.google.com/drive/1vjcQ30paeUufTLxDqCcyJy-moSWOiMuY?usp=sharing)
 
+## Review Recitation Slide
+[Review Slide](https://drive.google.com/file/d/1vhQFPnCE8BpeY_ZMEL8RUhkLVRmZ75gK/view?usp=sharing)
+
 ## Templates
 [Recitation 1](https://colab.research.google.com/drive/1kww_MQpVlYc8Cfxb0mmvH7Vf4imSUKwQ?usp=sharing)
 
